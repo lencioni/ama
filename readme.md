@@ -16,6 +16,10 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite.
 
+-
+*I can also be reached on [Twitter](https://twitter.com/lencioni)*.
+-
+
 ### Links
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
