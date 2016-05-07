@@ -17,7 +17,9 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - Be civil and polite.
 
 -
+
 *I can also be reached on [Twitter](https://twitter.com/lencioni)*.
+
 -
 
 ### Links
