@@ -1,5 +1,7 @@
 # Ask me anything!
 
+Building [ImportJS](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com). Formerly [Causes](https://www.causes.com) and [Brigade](https://www.brigade.com).
+
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 I get a lot of questions by email. This way anyone can read the answer!
