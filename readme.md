@@ -1,6 +1,6 @@
 # Ask me anything!
 
-Building [ImportJS](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com). Formerly [Causes](https://www.causes.com) and [Brigade](https://www.brigade.com).
+Building [ImportJS](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com). Formerly [Causes](https://www.causes.com) and [Brigade](https://www.brigade.com). [Colemak](http://colemak.com/) typer.
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
